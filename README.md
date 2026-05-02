@@ -1,4 +1,4 @@
-# 2025CESAR
+# 2026.Bonas.CESAR.JGR-MLC
 Supplemental codes for "CESAR: A **C**onvolutional **E**cho **S**tate **A**utoencode**R** for High-Resolution Wind Power Forecasting" by Matthew Bonas, Paolo Giani, Paola Crippa, and Stefano Castruccio
 
 ## Data
