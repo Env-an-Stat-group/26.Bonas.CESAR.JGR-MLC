@@ -1,4 +1,5 @@
 # 2026.Bonas.CESAR.JGR-MLC
+[![DOI](https://zenodo.org/badge/1227490775.svg)](https://doi.org/10.5281/zenodo.20388103)
 Supplemental codes for "CESAR: A **C**onvolutional **E**cho **S**tate **A**utoencode**R** for High-Resolution Wind Power Forecasting" by Matthew Bonas, Paolo Giani, Paola Crippa, and Stefano Castruccio
 
 ## Data
